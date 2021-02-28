@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "outDir": "lib",
+    "sourceMap": false,
+    "strict": true,
+    "target": "ES5",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "jsx": "preserve"
+  },
+  "compileOnSave": true,
+  "include": [
+    "pages"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts",
+    "lib",
+    "dist",
+    "types"
+  ]
+}
