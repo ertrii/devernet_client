@@ -1,0 +1,16 @@
+{
+  "files.eol": "\r\n",
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "prettier.semi": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 4,
+  "prettier.endOfLine": "crlf",
+  "javascript.validate.enable": false
+}

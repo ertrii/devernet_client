@@ -1,8 +1,17 @@
+import { ApolloProvider } from '@apollo/client'
+import apolloClientCreator from '../config/apollo_client_creator'
+import '../css/app.css'
+
 interface AppProps {
-  Component: () => JSX.Element,
-  pageProps: Record<string, any>
+    Component: () => JSX.Element
+
+    pageProps: Record<string, any>
 }
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+    return (
+        <ApolloProvider client={apolloClientCreator()}>
+            <Component {...pageProps} />
+        </ApolloProvider>
+    )
 }

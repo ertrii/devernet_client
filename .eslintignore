@@ -1,0 +1,10 @@
+node_modules
+dist
+lib
+build
+babel.config.js
+types
+next-env.d.ts
+.next
+.vscode
+public
