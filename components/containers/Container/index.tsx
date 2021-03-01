@@ -1,4 +1,4 @@
-import { CommonProps } from '../../config/defined_properties'
+import { CommonProps } from '../../../utils/defined_properties'
 import classnames from 'classnames'
 import style from './container.module.css'
 
