@@ -16,7 +16,7 @@ export default function HomePage() {
                 <Condition isEqual={loading} to>
                     <p>Loading...</p>
                 </Condition>
-                <button>Crear marca</button>
+                <button className="mt-3 p-2">Crear marca</button>
             </Form>
         </Container>
     )
