@@ -1,5 +1,5 @@
 export interface PropsCondition {
-    children: JSX.Element | JSX.Element[]
+    children: JSX.Element | JSX.Element[] | string
     isEqual: string | number | boolean
     to: string | number | boolean | string[] | number[] | boolean[]
 }

@@ -20,6 +20,9 @@
       "react": true,
       "JSX": true
     },
+    "env": {
+        "jest": true
+    },
     "rules": { 
       "no-console": 1,
       "no-unused-vars": "off",
