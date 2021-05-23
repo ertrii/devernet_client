@@ -1,23 +1,27 @@
+import { Grid, GridItem } from '@chakra-ui/react'
 import Container from '../components/containers/Container'
-import Form from '../components/containers/Form'
-import Input from '../components/forms/Input'
-import Condition from '../components/utils/Condition'
-import useCreateBrand from '../hooks/use_create_brand'
+import LastInstallations from '../containers/Dashboard/view/LastInstallations'
+import LastNotice from '../containers/Dashboard/view/LastNotice'
+import LastPays from '../containers/Dashboard/view/LastPays'
+import PendingInstalations from '../containers/Dashboard/view/PendingInstalations'
+import Summary from '../containers/Dashboard/view/Summary'
 
 export default function HomePage() {
-    const { handleSubmit, loading } = useCreateBrand()
-
     return (
-        <Container spacing>
-            <h1>Welcome to Devernet</h1>
-            <Form onSubmit={handleSubmit}>
-                <Input name="name" placeholder="Nombre" />
-                <Input name="image_url" placeholder="ruta de imagen" />
-                <Condition isEqual={loading} to>
-                    <p>Loading...</p>
-                </Condition>
-                <button className="mt-3 p-2">Crear marca</button>
-            </Form>
+        <Container>
+            <Grid templateColumns="repeat(6, 1fr)" gap={8}>
+                <GridItem colSpan={4} h="10">
+                    <LastInstallations />
+                    <LastPays />
+                    <Grid templateColumns="repeat(2, 1fr)" gap={8}>
+                        <LastNotice />
+                        <PendingInstalations />
+                    </Grid>
+                </GridItem>
+                <GridItem colStart={5} colEnd={7} bg="white" borderRadius="3xl" padding="4">
+                    <Summary />
+                </GridItem>
+            </Grid>
         </Container>
     )
 }

@@ -13,7 +13,7 @@ export default function Container({
     center = false,
     spacing = false,
     ...props
-}: ContainerProps & { children: JSX.Element | JSX.Element[] | string }) {
+}: ContainerProps & { children: React.ReactNode }) {
     const classNames = classnames(
         style.container,
         {

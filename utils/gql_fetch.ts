@@ -12,14 +12,12 @@ export interface MutationResult<T> {
 }
 
 export default function GQLFetch() {
-    const client = apolloClientCreator()
-
     async function query<T>(
         document_node: DocumentNode,
         variables: Record<string, any> = {}
     ): Promise<QueryResult<T>> {
         try {
-            const query_result = await client.query({
+            const query_result = await GQLFetch.client.query({
                 query: document_node,
                 variables,
             })
@@ -43,7 +41,7 @@ export default function GQLFetch() {
         variables: Record<string, any> = {}
     ): Promise<MutationResult<T>> {
         try {
-            const query_result = await client.mutate({
+            const query_result = await GQLFetch.client.mutate({
                 mutation: document_node,
                 variables,
             })
@@ -62,8 +60,27 @@ export default function GQLFetch() {
         }
     }
 
+    function subscribe<T>(
+        document_node: DocumentNode,
+        variables: Record<string, any> | null = null,
+        listen: (data: T) => void
+    ): () => void {
+        const observer = GQLFetch.client.subscribe({
+            query: document_node,
+            variables: variables || {},
+        })
+        const subscription = observer.subscribe(function (response) {
+            listen(response.data)
+        })
+
+        return () => subscription.unsubscribe()
+    }
+
     return {
         query,
         mutation,
+        subscribe,
     }
 }
+
+GQLFetch.client = apolloClientCreator()
