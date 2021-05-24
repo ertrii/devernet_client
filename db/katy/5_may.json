@@ -1,0 +1,20 @@
+{
+    "date": "15 de Mayo del 2021",
+    "due_date": "23 de Mayo del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 15 de Marzo - 15 de Abril",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 15 de Abril - 15 de Mayo",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "..."
+}

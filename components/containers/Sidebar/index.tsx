@@ -27,6 +27,11 @@ export default function Sidebar() {
                         <Icon mr="2" /> Productos
                     </a>
                 </Link>
+                <Link href="/receipts">
+                    <a className={styles.bar}>
+                        <Icon mr="2" /> Recibos
+                    </a>
+                </Link>
             </Box>
         </Box>
     )

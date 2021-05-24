@@ -1,0 +1,32 @@
+{
+    "date": "25 de Mayo del 2021",
+    "due_date": "02 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 25 de Febrero - 25 de Marzo",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 25 de Marzo - 25 de Abril",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 25 de Abril - 25 de Mayo",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        },
+        {
+            "description": "2/5 cuota de la Antena",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}
