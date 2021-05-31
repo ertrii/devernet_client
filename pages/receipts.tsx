@@ -2,8 +2,8 @@ import { Heading } from '@chakra-ui/layout'
 import { useEffect, useRef } from 'react'
 import Container from '../components/containers/Container'
 import printTextCtx, { Client, ReceiptData } from '../utils/printTextCtx'
-import client from '../db/katy/__info__.json'
-import may from '../db/katy/5_may.json'
+import client from '../db/lourdes_robles_rivas/__info__.json'
+import may from '../db/lourdes_robles_rivas/5_may.json'
 
 function process(ctx: CanvasRenderingContext2D) {
     const base_image = new Image()
@@ -33,15 +33,15 @@ export default function Receipts() {
 
     return (
         <Container className="m-5">
-            <Heading>Recivos </Heading>
+            <Heading>Recibos </Heading>
             <a
                 ref={ref_a}
                 href="#"
-                download="recivo.jpg"
+                download="recibo.jpg"
                 onClick={handleClick}
                 style={{ textDecoration: 'underline' }}
             >
-                Descargar Recivo: {client.name}
+                Descargar Recibo: {client.name}
             </a>
             <canvas width={892} height={1160} ref={ref_canvas}></canvas>
         </Container>

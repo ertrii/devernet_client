@@ -1,6 +1,6 @@
 {
-    "date": "27 de Mayo del 2021",
-    "due_date": "04 de Junio del 2021",
+    "date": "1 de Junio del 2021",
+    "due_date": "09 de Junio del 2021",
     "debts": [
         {
             "description": "Internet Mensual: 27 de Febrero - 27 de Marzo",
@@ -19,8 +19,14 @@
             "price": 50,
             "units": null,
             "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 27 de Mayo - 1 de Junio",
+            "price": 6,
+            "units": null,
+            "unit_price": null
         }
     ],
-    "discount": 0,
-    "description": "Ya pues bro, paga xD"
+    "discount": 20,
+    "description": "Descuento debido a la última chambita"
 }

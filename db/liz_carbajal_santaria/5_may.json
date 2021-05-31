@@ -1,0 +1,20 @@
+{
+    "date": "4 de Mayo del 2021",
+    "due_date": "12 de Mayo del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 4 de Abril - 4 de Mayo",
+            "price": 50,
+            "unit": null,
+            "unit_price": null
+        },
+        {
+            "description": "3/6 cuota de la Antena (S/.105 - /S.290)",
+            "price": 45,
+            "unit": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Último pago, 27 de Abril. Hasta el momento solo se ha realizado 2 pagos desde el 4 de febrero (fecha instalación)."
+}

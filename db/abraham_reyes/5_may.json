@@ -1,0 +1,26 @@
+{
+    "date": "1 de Junio del 2021",
+    "due_date": "09 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 7 de Mayo - 1 de Junio",
+            "price": 39,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Deuda de Palo",
+            "price": 20,
+            "units": 1,
+            "unit_price": null
+        },
+        {
+            "description": "(2/7) cuota de Antena (S/.50 - S/.310)",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Sus pagos serán traslado al 1 de cada mes."
+}

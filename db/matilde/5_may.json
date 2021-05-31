@@ -1,0 +1,26 @@
+{
+    "date": "1 de Junio del 2021",
+    "due_date": "9 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 21 de Abril - 21 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 21 de Mayo - 1 de Junio",
+            "price": 16,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Router Mercusys",
+            "price": 40,
+            "units": 1,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Ahora todos sus pagos serán el día 1 de cada mes"
+}

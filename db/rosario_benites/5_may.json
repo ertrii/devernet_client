@@ -1,0 +1,26 @@
+{
+    "date": "1 de Mayo del 2021",
+    "due_date": "9 de Mayo del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Marzo - 4 de Abril",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Abril - 1 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "5/5 cuota de la Antena (S/.200 - /S.240)",
+            "price": 40,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

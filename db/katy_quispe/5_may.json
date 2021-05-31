@@ -1,0 +1,20 @@
+{
+    "date": "1 de Junio del 2021",
+    "due_date": "9 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 16 de Abril - 16 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 16 de Mayo - 1 de Junio",
+            "price": 24,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Ahora todos sus pagos pasarán al primer día del mes."
+}

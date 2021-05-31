@@ -1,7 +1,7 @@
 export interface Debts {
     description: string
-    units?: number | null
-    unit_price?: number | null
+    units: number | null
+    unit_price: number | null
     price: number
 }
 
@@ -34,7 +34,7 @@ export default function printTextCtx(
     receipt_data.debts.forEach(({ description, units, unit_price, price }, i) => {
         const space = i * 27
         ctx.fillText(description, 130, 493 + space)
-        ctx.fillText(units?.toString() || '', 550, 493 + space)
+        ctx.fillText(units !== null ? units.toString() : '', 470, 493 + space)
         ctx.fillText(unit_price ? `S/. ${unit_price}` : '', 600, 493 + space)
         ctx.fillText(`S/.${price}`, 675, 493 + space)
     })

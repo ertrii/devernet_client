@@ -1,6 +1,6 @@
 {
-    "date": "3 de Mayo del 2021",
-    "due_date": "11 de Mayo del 2021",
+    "date": "1 de Junio del 2021",
+    "due_date": "9 de Junio del 2021",
     "debts": [
         {
             "description": "Internet Mensual: 9 de Febrero - 9 de Marzo",
@@ -21,12 +21,12 @@
             "unit_price": null
         },
         {
-            "description": "Deuda restante de la nueva antena instalada",
-            "price": 110,
+            "description": "Internet Mensual: 9 de Mayo - 1 de Junio",
+            "price": 35,
             "units": null,
             "unit_price": null
         }
     ],
     "discount": 0,
-    "description": "Hace una semanas se realizó la instalación de una nueva antena, solo se alcanzó S/.100"
+    "description": "Tus pagos ahora será el 1 de cada mes. Pongase al día o alcanse la mitad, sino se dará el corte el 10 de Junio."
 }

@@ -1,0 +1,20 @@
+{
+    "date": "1 de Junio del 2021",
+    "due_date": "12 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 24 de Abril - 24 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 24 de Mayo - 1 de Junio",
+            "price": 11,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Sus pagos serán traslado al 1 de cada mes. Disculpe las molestias."
+}

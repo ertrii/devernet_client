@@ -1,0 +1,38 @@
+{
+    "date": "1 de Junio del 2021",
+    "due_date": "9 de Junio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 11 de Enero - 11 de Febrero",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Febrero - 11 de Marzo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Marzo - 11 de Abril",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Abril - 11 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Mayo - 1 de Junio",
+            "price": 32,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Casi 5 meses de deuda, tiene hasta el 9 de Junio para alcanzar al menos la mitad sino se dará el corte."
+}
