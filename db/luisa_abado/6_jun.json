@@ -1,0 +1,26 @@
+{
+    "date": "1 de Julio del 2021",
+    "due_date": "9 de Julio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 7 de Mayo - 7 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 7 de Junio - 1 de Julio",
+            "price": 38,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "4/5 cuota del internet (S/150 - S/240)",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Ahora su fecha de pago será el 1 de cada mes."
+}

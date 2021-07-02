@@ -1,0 +1,14 @@
+{
+    "date": "1 de Julio del 2021",
+    "due_date": "9 de Julio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 8 de Junio - 1 de Julio",
+            "price": 36,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

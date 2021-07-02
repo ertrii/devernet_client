@@ -1,0 +1,32 @@
+{
+    "date": "1 de Julio del 2021",
+    "due_date": "9 de Julio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 11 de Marzo - 11 de Abril",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Abril - 11 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 11 de Mayo - 1 de Junio",
+            "price": 32,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Junio - 1 de Julio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Riesgo de corte 10 de Julio, ponerse al día un favor."
+}

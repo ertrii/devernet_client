@@ -2,15 +2,15 @@ import { Heading } from '@chakra-ui/layout'
 import { useEffect, useRef } from 'react'
 import Container from '../components/containers/Container'
 import printTextCtx, { Client, ReceiptData } from '../utils/printTextCtx'
-import client from '../db/lourdes_robles_rivas/__info__.json'
-import may from '../db/lourdes_robles_rivas/5_may.json'
+import client from '../db/dexzayda_serna/__info__.json'
+import data from '../db/dexzayda_serna/6_jun.json'
 
 function process(ctx: CanvasRenderingContext2D) {
     const base_image = new Image()
     base_image.src = 'images/receipts_template.png'
     base_image.onload = function () {
         ctx.drawImage(base_image, 0, 0)
-        printTextCtx(ctx, client as Client, may as ReceiptData)
+        printTextCtx(ctx, client as Client, data as ReceiptData)
     }
 }
 

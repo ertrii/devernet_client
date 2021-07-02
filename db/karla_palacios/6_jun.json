@@ -1,0 +1,26 @@
+{
+    "date": "1 de Julio del 2021",
+    "due_date": "9 de Julio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 15 de Abril - 15 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 15 de Mayo - 1 de Junio",
+            "price": 25,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Junio - 1 de Julio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Riesgo de corte 10 de Julio, por favor pagar a tiempo."
+}
