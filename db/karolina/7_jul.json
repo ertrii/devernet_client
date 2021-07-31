@@ -1,0 +1,26 @@
+{
+    "date": "1 de Agosto del 2021",
+    "due_date": "9 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 29 de Abril - 29 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 29 de Mayo - 29 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 29 de Junio - 1 de Agosto",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Sus pagos pasarán al 1 de cada mes"
+}

@@ -1,0 +1,32 @@
+{
+    "date": "21 de Julio del 2021",
+    "due_date": "29 de Julio del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 18 de Abril - 18 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 18 de Mayo - 18 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 18 de Junio - 1 de Julio",
+            "price": 20,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "(5/5) Última Cuota de la antena S/.200 - S/.240",
+            "price": 40,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Ahora sus pagos pasarán al 1 de cada mes."
+}

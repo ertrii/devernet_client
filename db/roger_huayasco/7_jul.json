@@ -1,0 +1,44 @@
+{
+    "date": "1 de Agosto del 2021",
+    "due_date": "9 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 14 de Marzo - 14 de Abril",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 14 de Abril - 14 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 14 de Mayo - 14 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 14 de Junio - 1 de Julio",
+            "price": 26,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Agosto",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "(3/6) Cuota de la antena S/.100 - S/.285",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

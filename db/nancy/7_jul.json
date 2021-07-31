@@ -1,0 +1,14 @@
+{
+    "date": "1 de Agosto del 2021",
+    "due_date": "9 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Agosto",
+            "price": 0,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Usted ya había adelantado un mes, por ello es cero"
+}

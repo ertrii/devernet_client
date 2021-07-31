@@ -1,0 +1,38 @@
+{
+    "date": "1 de Agosto del 2021",
+    "due_date": "9 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 4 de Abril - 4 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 4 de Mayo - 4 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 4 de Junio - 1 de Julio",
+            "price": 43,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Agosto",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "3/6 cuota de la Antena (S/.105 - /S.290)",
+            "price": 45,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Riesgo de corte."
+}
