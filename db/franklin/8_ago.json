@@ -1,0 +1,38 @@
+{
+    "date": "1 de Agosto del 2021",
+    "due_date": "09 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 25 de Junio - 1 de Julio",
+            "price": 8,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Agosto",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Agosto - 4 de Agosto",
+            "price": 6,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "5/5 cuota de la Antena",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Router Mercusys",
+            "price": 60,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

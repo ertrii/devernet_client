@@ -1,0 +1,26 @@
+{
+    "date": "1 de Setiembre del 2021",
+    "due_date": "10 de Setiembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 2 de Julio - 1 de Agosto",
+            "price": 48,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Agosto - 1 de Setiembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "7/7 ultima cuota de la antena (S/.290 - S/.310)",
+            "price": 20,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

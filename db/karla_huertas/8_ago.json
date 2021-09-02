@@ -1,0 +1,38 @@
+{
+    "date": "1 de Setiembre del 2021",
+    "due_date": "9 de Setiembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 15 de Mayo - 15 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 15 de Junio - 15 de Julio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 15 de Julio - 1 de Agosto",
+            "price": 25,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Agosto - 1 de Setiembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "4/6 cuota de la antena (S/.150 - S/.265)",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": "Ahora sus pagos pasarán al 1 de cada mes."
+}

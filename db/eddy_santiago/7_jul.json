@@ -1,0 +1,38 @@
+{
+    "date": "15 de Agosto del 2021",
+    "due_date": "23 de Agosto del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Abril - 1 de Mayo",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Mayo - 1 de Junio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Junio - 1 de Julio",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Agosto",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "4/4 cuota de la Antena",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}
