@@ -1,0 +1,14 @@
+{
+    "date": "1 de Octubre del 2021",
+    "due_date": "9 de Octubre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 13 de Agosto - 1 de Octubre",
+            "price": 28,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

@@ -1,0 +1,20 @@
+{
+    "date": "1 de Octubre del 2021",
+    "due_date": "9 de Octubre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Agosto - 1 de Setiembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Setiembre - 1 de Octubre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 100,
+    "description": "Ya no vendemos las antenas. Habían alcanzado S/.100 de la cual se está usando para cubrir los 2 últimos meses"
+}

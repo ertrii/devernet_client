@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react'
 import Container from '../components/containers/Container'
 import printTextCtx, { Client, ReceiptData } from '../utils/printTextCtx'
 import client from '../db/yulissa/__info__.json'
-import data from '../db/yulissa/8_ago.json'
+import data from '../db/yulissa/9_set.json'
 
 function process(ctx: CanvasRenderingContext2D) {
     const base_image = new Image()
