@@ -1,0 +1,38 @@
+{
+    "date": "1 de Octubre del 2021",
+    "due_date": "29 de Noviembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Enero - 1 de Marzo",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Marzo - 1 de Mayo",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Mayo - 1 de Julio",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Julio - 1 de Setiembre",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Setiembre - 1 de Noviembre",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

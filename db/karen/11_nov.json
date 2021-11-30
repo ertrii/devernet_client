@@ -1,0 +1,14 @@
+{
+    "date": "1 de Diciembre del 2021",
+    "due_date": "9 de Diciembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Noviembre - 1 de Diciembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

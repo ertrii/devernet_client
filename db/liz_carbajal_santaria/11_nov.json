@@ -1,0 +1,26 @@
+{
+    "date": "1 de Diciembre del 2021",
+    "due_date": "9 de Diciembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 4 de Mayo - 4 de Junio",
+            "price": 7,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 4 de Junio - 1 de Julio",
+            "price": 43,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Noviembre - 1 de Deciembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0,
+    "description": ""
+}

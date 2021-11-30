@@ -1,0 +1,38 @@
+{
+    "date": "1 de Diciembre del 2021",
+    "due_date": "10 de Diciembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 28 de Mayo - 1 de Agosto",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Agosto - 1 de Octubre",
+            "price": 100,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Octubre - 1 de Noviembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Noviembre - 1 de Diciembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Deuda de último router",
+            "price": 40,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 10,
+    "description": ""
+}

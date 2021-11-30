@@ -1,0 +1,32 @@
+{
+    "date": "1 de Noviembre del 2021",
+    "due_date": "9 de Noviembre del 2021",
+    "debts": [
+        {
+            "description": "Internet Mensual: 1 de Agosto - 1 de Setiembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Setiembre - 1 de Octubre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "Internet Mensual: 1 de Octubre - 1 de Noviembre",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        },
+        {
+            "description": "(4/6) Cuota de la antena S/.150 - S/.285",
+            "price": 50,
+            "units": null,
+            "unit_price": null
+        }
+    ],
+    "discount": 0.30,
+    "description": ""
+}
